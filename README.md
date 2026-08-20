@@ -24,10 +24,8 @@ I love soccer ⚽
 ---
 
 ## 📊 Stats
-
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=amineelmess&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=amineelmess&theme=github-dark-blue&hide_border=true&background=0d1117)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=amineelmess&theme=github-dark-blue&hide_border=true&background=0d1117)](https://git.io/streak-stats)
 
 ---
 
