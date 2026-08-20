@@ -28,13 +28,10 @@ I love soccer ⚽
 
 - 📧 [Email](mailto:elmessaoudia@carleton.edu)
 - 💼 [LinkedIn](https://linkedin.com/in/amineelmessaoudi)
-- 🐙 [GitHub](https://github.com/amineelmess)
 
 ---
 
----
 
----
 
 ```bash
 $ echo "Thanks for visiting! ⭐"
