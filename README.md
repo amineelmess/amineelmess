@@ -10,6 +10,7 @@ $ cat portfolio.txt
 
 🔗 [Visit My Portfolio](https://amineelmess.github.io/Portfolio/)
 
+```bash
 $ pwd
 Northfield, MN @ Carleton College
 
