@@ -5,6 +5,9 @@ Amine El Messaoudi
 $ cat about.txt
 CS + Math student at Carleton College. I build full-stack apps and websites, on-device ML pipelines, and self-hosted AI infrastructure.
 
+$ cat portfolio.txt
+https://amineelmess.github.io/Portfolio/
+
 $ pwd
 Northfield, MN @ Carleton College
 
