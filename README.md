@@ -6,7 +6,9 @@ $ cat about.txt
 CS + Math student at Carleton College. I build full-stack apps and websites, on-device ML pipelines, and self-hosted AI infrastructure.
 
 $ cat portfolio.txt
-https://amineelmess.github.io/Portfolio/
+```
+
+🔗 [Visit My Portfolio](https://amineelmess.github.io/Portfolio/)
 
 $ pwd
 Northfield, MN @ Carleton College
@@ -31,11 +33,13 @@ I love soccer ⚽
 
 - 📧 [Email](mailto:elmessaoudia@carleton.edu)
 - 💼 [LinkedIn](https://linkedin.com/in/amineelmessaoudi)
+- 🌐 [Portfolio](https://amineelmess.github.io/Portfolio/)
+
 
 ---
 
 
 
 ```bash
-$ echo "Thanks for visiting! ⭐"
+$ echo "Thanks for visiting!"
 ```
